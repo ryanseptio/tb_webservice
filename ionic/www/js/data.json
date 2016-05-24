@@ -1,0 +1,76 @@
+{
+  "calendar": [
+    {
+      "weekday": "",
+      "title": "Sejarah Politeknik Pos Indonesia",
+      "description": "Didirikan pada tanggal 5 Juli 2001 berdasarkan SK Mendiknas No. 56/D/O/2001. Saat ini Poltekpos memiliki lima program studi Diploma III yaitu: Logistik Bisnis, Manajemen Pemasaran, Akuntansi, Teknik Informatika , Manajemen informatika, dan satu pragram studi Diploma IV yaitu Logistik Bisnis. ",
+      "schedule": [
+        {
+          "time": "",
+          "shortname": "1",
+          "artist": "Putra Pratama Nasution",
+          "room": "",
+          "description": "Pengembangan tahap I (2009-2011) bertujuan untuk membangun tata kelola perguruan tinggi yang baik (good university governance), sistem informasi yang terintegrasi (e-Campus) serta sistem penjaminan mutu yang efektif.Pengembangan tahap II (2012-2015) bertujuan untuk meningkatkan relevansi dan mutu pendidikan.Pengembangan tahap III (2016-2020) bertujuan untuk membangun keunggulan di tingkat nasional dan internasional. Sehingga pada tahun 2020 diharapkan Poltekpos Indonesia sudah mampu bersaing di tingkat global sebagai World Class Vocational University khususnya dalam bidang logistik dan manajemen rantai pasok.",
+          "title": "Strategi Jangka Panjang 2009-2020"
+        }, {
+          "time": "",
+          "shortname": "2",
+          "artist": "Ryan Septio",
+          "room": "",
+          "description": "Manajemen Poltekpos menilai bawa sudah saatnya Poltekpos Indonesia melakukan akselerasi dengan memasuki program pengembangan tahap II. Program Pengambangan tahap II ini bertujuan untuk membangun keunggulan Poltekpos di tingkat nasional khususnya sebagai Pendidikan vokasional di bidang logistik dan manajemen rantai pasok dengan motto “toward national center of excellence in integrated logistik and supply chain vocational education”. Pada tahap ini program pengembangan berfokus kepada empat isu strategis yaitu relevansi, kualitas, dan akses dengan empat program strategis",
+          "title": "Program Strategis"
+        },{
+          "time": "",
+          "room": "",
+          "description": "Sistem pendidikan yang dikembangkan di Poltekpos Indonesia adalah apa yang disebut dengan 'integrated logistiks and supply chain vocational education' dengan lima komponen pendukung utama yaitu: information technology, communication skill (Bahasa inggris), Entrepreunership, Internship Program, dan character building.",
+          "title": "Paradigma Pendidikan"
+        }
+      ]
+    }, {
+      "weekday": "",
+      "title": "PMB POLTEKPOS",
+      "description": "PMDK atau Penelusuran Minat dan Kemampuan merupakan jalur penerimaan mahasiswa baru untuk masuk ke Politeknik Pos Indonesia (Poltekpos). Jalur PMDK ini merupakan jalur seleksi tanpa tes tertulis. Seleksi jalur PMDK ini didasarkan pada prestasi-prestasi siswa saat masih di Sekolah, terutama dilihat dari nilai rapor siswa.",
+      "schedule": [
+        {
+          "time": "",
+          "shortname": "5",
+          "artist": "Faturrahman Hasan",
+          "room": "",
+          "description": "Menjadikan politeknik pos Indonesia menjadi lebih baik dengan mewujudkan kampus yang berfungsi sebagai wadah pendidikan dan pengembangan potensi mahasiswa serta memperkenalkan Politeknik pos indonesia ke seluruh Indonesia dengan memberikan kontribusi lebih untuk agama, kampus, masyarakat, dan negara.",
+          "title": "Badan Eksekutif Mahasiswa"
+        },{
+          "time": "",
+          "artist": "Ryan Septio",
+          "room": "",
+          "description": "Politeknik Pos Indonesia sering juga disebut Orang Campus. Hal itu dikarenakan warna dari kampus Politeknik Pos Indonesia sendiri serta warna almamater yang digunakan adalah berwarna orange.",
+          "title": "Orange Campus"
+        },{
+          "time": "",
+          "shortname": "6",
+          "artist": "Putra Pratama Nasution",
+          "room": "",
+          "description": "Himpunan Mahasiswa Teknik Informatika merupakan suatu himpunan mahasiswa yang menaungi seluruh mahasiswa di jurusan Teknik Informatika Politeknik Pos Indonesia.",
+          "title": "HIMATIF"
+        }
+      ]
+    }
+  ],
+  "artists": [
+    {
+      "bio": "Saya adalah seorang Mahasiswa jurusan Teknik Informatika di Politeknik Pos Indonesia. Saya memiliki ketertarikan kepada dunia IT dan juga Seni ",
+      "shortname": "10",
+      "name": "",
+      "reknown": "Putra Pratama Nasution"
+    },{
+      "bio": "Saya adalah seorang mahasiswa yang berasal dari Provinsi Sulawesi Selatan. Sekarang saya duduk di kelas D4 TI 3A di Jurusan Teknik Informatika Politeknik Pos Indonesia",
+      "shortname": "20",
+      "name": "",
+      "reknown": "Faturrahman Hasan"
+    },{
+      "bio": "Saya sedang menggeluti dunia pemrograman berbasis web dengan Angular JS",
+      "shortname": "30",
+      "name": "",
+      "reknown": "Ryan Septio"
+    }
+  ]
+}
